@@ -63,5 +63,13 @@ export const workExperience = [
     descriptionKey: "work4Description",
     technologies: ["Laravel", "PHP", "RESTful API", "Eloquent ORM", "XAMPP"],
   },
+  {
+    id: 5,
+    companyKey: "work5Company",
+    positionKey: "work5Position",
+    durationKey: "work5Duration",
+    descriptionKey: "work5Description",
+    technologies: ["SAP", "ERP", "Accounting", "Business Process", "Financial Reporting"],
+  },
 ];
 

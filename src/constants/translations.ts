@@ -106,6 +106,12 @@ export const translations = {
     work4Duration: "2025",
     work4Description:
       "Guided students in web application development using Laravel framework, creating and managing RESTful APIs, authentication and user management, database connection with Eloquent ORM, and local deployment using XAMPP and Laravel Artisan.",
+    // Work Experience 5 - Lab Assistant Accounting Information Systems
+    work5Company: "Telkom University Jakarta",
+    work5Position: "Lab Assistant - Accounting Information Systems",
+    work5Duration: "2024",
+    work5Description:
+      "Assisted students in understanding accounting information systems using SAP software. Taught business process integration, financial accounting modules, transaction processing, and reporting in SAP environment. Helped students develop practical skills in enterprise resource planning (ERP) systems.",
 
     // ========================================
     // CERTIFICATES SECTION
@@ -228,6 +234,12 @@ export const translations = {
     work4Duration: "2025",
     work4Description:
       "Membimbing mahasiswa dalam pengembangan aplikasi web menggunakan framework Laravel, pembuatan dan pengelolaan RESTful API, autentikasi dan manajemen user, koneksi database dengan Eloquent ORM, serta deployment lokal menggunakan XAMPP dan Laravel Artisan.",
+    // Work Experience 5 - Lab Assistant Accounting Information Systems
+    work5Company: "Telkom University Jakarta",
+    work5Position: "Asisten Lab - Sistem Informasi Akuntansi",
+    work5Duration: "2024",
+    work5Description:
+      "Membantu mahasiswa memahami sistem informasi akuntansi menggunakan software SAP. Mengajarkan integrasi proses bisnis, modul akuntansi keuangan, pemrosesan transaksi, dan pelaporan dalam lingkungan SAP. Membantu mahasiswa mengembangkan keterampilan praktis dalam sistem enterprise resource planning (ERP).",
 
     // Certificates Section
     sectionCerts: "SERTIFIKAT & PENGHARGAAN",
