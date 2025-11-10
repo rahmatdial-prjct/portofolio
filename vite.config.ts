@@ -2,10 +2,10 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react-swc';
 import path from 'path';
 
-export default defineConfig(({ command }) => ({
+export default defineConfig(({ command, mode }) => ({
   plugins: [react()],
-  // Use base URL only in production (build), not in development
-  base: command === 'build' ? '/portofolio/' : '/',
+  // Use base URL only for GitHub Pages, not for Vercel or development
+  base: command === 'build' && mode !== 'vercel' ? '/portofolio/' : '/',
   resolve: {
     extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
     alias: {
