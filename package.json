@@ -23,7 +23,8 @@
     "build:vercel": "vite build --mode vercel",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "deploy:old": "gh-pages -d build -r https://github.com/rahmatdial-prjct/portofolio.git"
   },
   "homepage": "https://rahmatdialtelkom.github.io/portofolio"
 }

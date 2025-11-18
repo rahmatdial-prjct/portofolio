@@ -135,6 +135,9 @@ export const translations = {
     // Certificate 6 - Course-Net Networking
     cert6Title: "Information and Communication Technology - Cisco",
     cert6Issuer: "Course-Net - Issued November 2019",
+    // Certificate 8 - Lab Assistant Accounting Information System
+    cert8Title: "Lab Assistant - Accounting Information System",
+    cert8Issuer: "Telkom University - 2024",
     // Certificate 7 - Miscellaneous Certificates
     cert7Title: "Miscellaneous Certificates",
     cert7Issuer: "Various Issuers",
@@ -172,8 +175,8 @@ export const translations = {
     // Hero Section
     heroGreeting: "HALO, SAYA ADALAH",
     heroTitle1: " ",
-    heroTitle2: "IT ENTHUSIAST &",
-    heroTitle3: "DIGITAL CREATOR ",
+    heroTitle2: "[IT ENTHUSIAST]",
+    heroTitle3: "[DIGITAL CREATOR] ",
     heroButton: "HUBUNGI SAYA",
 
     // About Section
@@ -261,6 +264,9 @@ export const translations = {
     // Certificate 6 - Course-Net Networking
     cert6Title: "Teknologi Informasi dan Komunikasi - Cisco",
     cert6Issuer: "Course-Net - Dikeluarkan November 2019",
+    // Certificate 8 - Lab Assistant Accounting Information System
+    cert8Title: "Asisten Lab - Sistem Informasi Akutansi",
+    cert8Issuer: "Universitas Telkom - 2024",
     // Certificate 7 - Miscellaneous Certificates
     cert7Title: "Sertifikat Lainnya",
     cert7Issuer: "Berbagai Penerbit",

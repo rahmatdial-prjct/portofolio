@@ -63,6 +63,12 @@ export const certificates = [
     link: "https://drive.google.com/drive/folders/1_luBz324qvoxhb9nRHzGAJEdW6QfPKNC?usp=sharing",
   },
   {
+    id: 8,
+    titleKey: "cert8Title",
+    issuerKey: "cert8Issuer",
+    link: "https://drive.google.com/drive/folders/10Tl_Opxp1Y977zUIbOShKWVOiqd02KZx?usp=drive_link",
+  },
+  {
     id: 7,
     titleKey: "cert7Title",
     issuerKey: "cert7Issuer",
